@@ -1,0 +1,28 @@
+.btn-containe{
+    height: 50px;
+
+}
+
+
+.btn-containe button{
+    width: 100%;
+    border-radius: 10px;
+    height: 100%;
+}
+
+
+.btn p{
+    color: #FFFFFF;
+    font-size: 15px;
+    text-transform: uppercase;
+    padding-top: 7px;
+}
+
+
+@media (min-width: 576px){
+
+    .bt p{
+        font-size: 18px;
+    }
+
+}
